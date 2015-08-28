@@ -1,3 +1,6 @@
+Hola como estas!!!!
+
+
 ;Ejercicio 1
 (define pendiente
   (lambda(x y x^ y^)
